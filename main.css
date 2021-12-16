@@ -183,7 +183,7 @@ main.publicar--empleo label {
 		overflow: hidden;
 	}
 	.main__info {
-		background: url('./bg-empleo.jpg');
+		background: url('./image.jpg');
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position: center;
@@ -234,6 +234,6 @@ main.publicar--empleo label {
 		height: 250px;
 	}
 	.form-file__result::after {
-		content: 'Arrastra o dale clic para elegir tu imagen.';
+		content: 'Drag or click to choose your image.';
 	}
 }
